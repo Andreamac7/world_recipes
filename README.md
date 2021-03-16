@@ -1,4 +1,4 @@
 # world_recipes
 Analyzing the world cuisines through their recipes
 
-Dataset: https://drive.google.com/file/d/1xwvii36zy04l_qxGd0mWVwoIV8plrJlF/view?usp=sharing
+Dataset: https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions?select=RAW_recipes.csv
